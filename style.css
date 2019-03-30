@@ -1,0 +1,97 @@
+#title{
+
+    color: yellow;
+    border: 5px;
+    border-color: black;
+    
+}
+
+#TitleImg{
+
+    margin-top: 10px;
+    height: 150px;
+
+}
+
+#tab{
+
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+
+    display: inline-block;
+
+}
+
+#tabButton{
+
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+
+    display: inline-block;
+
+}
+
+#body{
+
+    background-image: url("Assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#formHeader{
+
+    color: white;
+
+}
+
+#form{
+
+    text-align: left;
+    opacity: 1.0;
+    color: white;
+    font-size: 30px;
+
+}
+
+#formInput{
+
+    width: 50px;
+    font-size: 20px;
+    align-self: right;
+
+}
+
+#button{
+
+    height: 40px;
+    width: 200px;
+    display: inline-block;
+
+}
+
+#footer{
+
+    width: 100%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin: 0px;
+    margin-top: 40px;
+
+    border-radius: 30px;
+
+    color: white;
+
+    background-color: rgba(0, 0, 0, 0.9);
+
+}
